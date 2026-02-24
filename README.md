@@ -31,9 +31,9 @@
 
 ## Projects
 - EOL English Online Learning — เว็บไซต์ฝึกและทดสอบภาษาอังกฤษออนไลน์
-- devteam-ejs-framework — เฟรมเวิร์กสำหรับพัฒนาเว็บแอปพลิเคชันด้วย EJS และ Node.js
-- email generator — เครื่องมือสร้างอีเมลสำหรับใช้งานชั่วคราว
-- minecraft-veinminer - data pack สำหรับเกม Minecraft ที่ช่วยให้ผู้เล่นสามารถขุดแร่ได้ง่ายขึ้น
+- devteam-ejs-framework — เฟรมเวิร์กสำหรับพัฒนาเว็บแอปพลิเคชันด้วย EJS และ Node.js [GitHub](https://github.com/rungrotlnwza/DevTeam-EJS-FrameWork)
+- email generator — เครื่องมือสร้างอีเมลสำหรับใช้งานชั่วคราว [GitHub](https://github.com/rungrotlnwza/email.git)
+- minecraft-veinminer - data pack สำหรับเกม Minecraft ที่ช่วยให้ผู้เล่นสามารถขุดแร่ได้ง่ายขึ้น [GitHub](https://github.com/rungrotlnwza/minecraft_datpack_veinminner.git)
 
 ## Other
 - ผู้ช่วย TA ของวิทยาลัยการอาชีพศรีสะเกษ
